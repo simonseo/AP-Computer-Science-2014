@@ -3,6 +3,8 @@ APComputerScience
 
 Simon's AP Computer Science 
 
+Passed with 5 out of 5
+
 mkdir ~/Hello-World
 # Creates a directory for your project called "Hello-World" in your user directory
 
